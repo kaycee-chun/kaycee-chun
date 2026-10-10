@@ -6,4 +6,5 @@ At Shidler, I have held multiple leadership roles in the International Business 
 
 In the short term, I plan to grow my network by connecting with local marketing professionals and to gain hands-on experience through a marketing internship. In the long term, I aim to work as a digital marketer or brand manager for a beauty brand, whether locally, nationally, or internationally.
 
+
 Reviewed with help from Claude (Anthropic, 2026); written and edited by me.
