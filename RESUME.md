@@ -1,6 +1,5 @@
 <!--
 ---
-template: portfolio-resume
 purpose: "Resume skeleton (Penn-style) for student GitHub portfolios — Markdown source that exports cleanly to PDF via browser print"
 audience: student
 fields_required: [name, contact, education, professional_experience, leadership, honors, skills]
@@ -10,7 +9,6 @@ courses: [BUS-629, BUS-122B]
 -->
 
 # Kaycee Chun
-**Email:** chunkaycee@gmail.com · (808) 799-4328  
 **Location:** Honolulu, Hawaii  
 **LinkedIn:** [linkedin.com/in/kaycee-chun](https://linkedin.com/in/kaycee-chun)  
 
