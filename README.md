@@ -8,3 +8,9 @@ In the short term, I plan to grow my network by connecting with local marketing 
 
 
 Reviewed with help from Claude (Anthropic, 2026); written and edited by me.
+
+## Engagements
+
+Each engagement is listed here with a link to its brief and decision memo, and the capability it exercised.
+
+(None yet. The first entry will be added when the first engagement is finished.)
