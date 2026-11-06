@@ -12,7 +12,7 @@ llm_used: "Claude"
 **Created by:** Kaycee Chun   
 **Updated by:** Kaycee Chun  
 **Date Created:** 2026-10-30  
-**Date Updated:** 2026-10-30  
+**Date Updated:** 2026-11-06  
 **Version:** 1.0 
 **LLM Used:** Claude
 
