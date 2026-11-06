@@ -64,7 +64,7 @@ I will build a workbook comparing USD proceeds across settlement rates for each 
 
 **Limitations.** The 1.1705 forward is indicative and appears inconsistent with today's spot. Sources disagree on the ECB rate (2.50% vs. 2.65%), and no rates are sourced from a bank or official fixing yet. Spot is a single-day figure.
 
-**Next steps (owner: [your name]):**
+**Next steps (owner: [kaycee chun]):**
 
 1. **Stage 2, model specification:** workbook designed on paper (named ranges, tabs, formulas, checks)
 2. **Stage 3, AI-assisted build and audit:** AI generates the workbook; I audit and fix it
