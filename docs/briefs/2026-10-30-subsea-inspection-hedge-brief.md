@@ -9,16 +9,16 @@ llm_used: "Claude"
 
 # EUR 8.6M Receivable Hedge Brief: Subsea Inspection
 
-**Created by:**[Kaycee Chun]   
-**Updated by:** [Kaycee Chun]  
+**Created by:** Kaycee Chun   
+**Updated by:** Kaycee Chun  
 **Date Created:** 2026-10-30  
 **Date Updated:** 2026-10-30  
-**Version:** 0.0  
+**Version:** 1.0 
 **LLM Used:** Claude
 
 ---
 
-## Executive Summary (≤150 words)
+## Executive Summary 
 
 Our firm will receive EUR 8,600,000 from an Italian energy client in 182 days. The euro amount is fixed, but its dollar value is not. At a spot near 1.114 the receivable is worth about $9.58 million, and a 10% euro decline would remove roughly $958,000 from budgeted cash. This brief frames that exposure and compares three hedge families: a forward (indicatively quoted at 1.1705), a money-market hedge, and a EUR put option (premium $0.0194 per EUR, about $166,840). I expect the quoted forward to look too good relative to today's spot and interest rates, so I will test it before recommending anything. The recommendation waits for Stage 5.
 
@@ -64,7 +64,7 @@ I will build a workbook comparing USD proceeds across settlement rates for each 
 
 **Limitations.** The 1.1705 forward is indicative and appears inconsistent with today's spot. Sources disagree on the ECB rate (2.50% vs. 2.65%), and no rates are sourced from a bank or official fixing yet. Spot is a single-day figure.
 
-**Next steps (owner: [kaycee chun]):**
+**Next steps (owner: kaycee chun):**
 
 1. **Stage 2, model specification:** workbook designed on paper (named ranges, tabs, formulas, checks)
 2. **Stage 3, AI-assisted build and audit:** AI generates the workbook; I audit and fix it
